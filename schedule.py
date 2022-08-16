@@ -30,7 +30,7 @@ def print_schedual():
         print(f.read())
         f.close()
     else:
-        print(No School Yet)
+        print("No School Yet")
 print_schedual()
 
 def go():
